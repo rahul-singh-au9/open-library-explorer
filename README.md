@@ -1,3 +1,10 @@
+## DEMO
+
+
+https://github.com/user-attachments/assets/b0afffe2-6ee8-4381-8e55-2e94b4c90f97
+
+
+
 # Open Library Explorer
 
 A full-stack application to browse and explore a catalog of books. This project allows users to view a paginated list of books, filter them by genre, author, and published year, and view detailed information for each book.
