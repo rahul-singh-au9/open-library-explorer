@@ -1,0 +1,14 @@
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Or space-around, space-between */
+  gap: 15px; /* Space between cards */
+  padding: 20px 0;
+}
+
+.no-books-found {
+  text-align: center;
+  font-size: 1.2em;
+  color: #555;
+  margin-top: 30px;
+}
