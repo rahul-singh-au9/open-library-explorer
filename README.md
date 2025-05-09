@@ -228,16 +228,5 @@ All API endpoints are prefixed with `/api`.
 * **Frontend:**
     * "Load More" functionality prevents a large initial data load, improving perceived performance.
     * Code splitting (default with Vite) helps reduce initial bundle size.
-    * Memoization (e.g., `React.memo`, `useCallback`) can be used for optimizing component re-renders if performance bottlenecks are identified, but are not heavily used in this skeleton to keep it simpler.
-
-## Optional Enhancements (Ideas for Future)
-
-* Implement debounced search functionality.
-* Add sorting options (by title, year, author).
-* Use skeleton loaders for a better loading UX.
-* Implement actual infinite scroll.
-* User authentication and user-specific lists (beyond scope).
-* More advanced filtering combinations.
-* Host the application (e.g., Vercel for frontend, Railway/Render for backend).
-
+    * Memoization (e.g., `React.memo`, `useCallback`) can be used for optimizing component re-renders if performance bottlenecks are identified, but are not heavily used in this skeleton to keep it simpler
 ---
